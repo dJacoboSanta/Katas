@@ -1,2 +1,2 @@
 # Katas
-This repository will be used for activities from the first week of Launch X   
+This repository will be used for activities from the first week from Launch X   
